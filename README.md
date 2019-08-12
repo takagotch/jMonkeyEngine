@@ -1,6 +1,8 @@
 ### jmonkeyengine
 ---
-https://jmonkeyengine.org/
+http://jmonkeyengine.org/
+
+https://github.com/jMonkeyEngine
 
 ```
 ```
